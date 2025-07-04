@@ -1,0 +1,19 @@
+name: Metrics (Contribution Grid)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # обновляется каждый день
+  workflow_dispatch:      # можно вручную запустить
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: activity
+          plugin_isocalendar: yes
+          config_timezone: Europe/Moscow
