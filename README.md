@@ -1,10 +1,8 @@
-<h1 align="center">Hi, I'm Romil👋</h1>
+<h1 align="center">Hi, I'm Romil 👋</h1>
 
 <p align="center">
-    Developer with a focus on backend, system architecture, and visual interfaces.
-  <br/>
-  🌍 Based in Saint Petersburg, Russia
-  <br/>
+  Developer with a focus on backend, system architecture, and visual interfaces.<br/>
+  🌍 Based in Saint Petersburg, Russia<br/>
   💼 Currently working at Studia 54
 </p>
 
@@ -20,6 +18,14 @@
 - 📊 BI & dashboards with SQL, Superset, and KPI visualization  
 - 🧪 Focused on testing (unit, integration, e2e with Jest/Cypress)  
 - 🤝 Hiring, mentoring, process automation  
+
+---
+
+## 🧩 GitHub Contribution Grid
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raamar/raamar/main/metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 ---
 
@@ -55,14 +61,23 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raamar&layout=compact&theme=default" />  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=raamar&show_icons=true&theme=default" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raamar/raamar/refs/heads/master/github-metrics.svg" alt="Contribution Grid" width="800"/>
+</p>
 
-</div>
+---
+
+## 🧪 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raamar&layout=compact&theme=default" />
+</p>
+
+---
 
 ## 📫 Contacts
 
-- ✉️ khandryga.romil@gmail.com
+- ✉️ khandryga.romil@gmail.com  
+- 🧑‍💻 [GitHub](https://github.com/raamar)
 
 ---
