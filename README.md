@@ -8,6 +8,14 @@
 
 ---
 
+## 🧪 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raamar&layout=compact&theme=default" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 🧠 6+ years of experience in fullstack development  
@@ -21,13 +29,11 @@
 
 ---
 
-## 🧩 GitHub Contribution Grid
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raamar/raamar/main/metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/raamar/raamar/refs/heads/master/github-metrics.svg" alt="Contribution Grid" width="800"/>
 </p>
-
----
 
 ## 🧰 Tech Stack
 
@@ -56,22 +62,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=flat&logo=graphql)
 ![Three.js](https://img.shields.io/badge/-Three.js-333?style=flat&logo=three.js)
 ![GSAP](https://img.shields.io/badge/-GSAP-333?style=flat&logo=greensock)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raamar/raamar/refs/heads/master/github-metrics.svg" alt="Contribution Grid" width="800"/>
-</p>
-
----
-
-## 🧪 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raamar&layout=compact&theme=default" />
-</p>
 
 ---
 
