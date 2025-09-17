@@ -8,14 +8,6 @@
 
 ---
 
-## 🧪 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raamar&layout=compact&theme=default" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🧠 6+ years of experience in fullstack development  
